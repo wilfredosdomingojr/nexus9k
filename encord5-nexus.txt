@@ -6,9 +6,9 @@ Locate the Eve-NG VM, preferably placed in a disk space with having free space v
 No need to modify VM, as in 32GB RAM (preferably it can be raised), 8 Core Processor, and NAT.
 
 The IP Address will be shown after boot and to be use to access sa lab. 
-in first login (EveNG): admin/eve
+in first login (EveNG): rivan/C1sc0123
 
-login for NXOS after boot: admin/C1sc0123
+login for NXOS after boot: admin/admin
 
 !DO NOT USE COPY-PASTING AS POSSIBLE, IT MAY CAUSE RANDOM CRASHES OR MALFUNCTION.
 
